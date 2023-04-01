@@ -61,4 +61,18 @@
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   }
+
+  .church-image {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+  }
+  
+  .church-image img {
+    max-width: 35%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  }
+  
   
